@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d55433c0-fb0f-48b3-b9c1-d746c1e1487b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Editor/Tools.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Sound/StepSound.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Sound/ShotSound.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Sound/RandomPitch.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scene/GameOverZone.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Sound/MixerLevels.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Logic/Platforms/MovingPlatform.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Logic/Platforms/FloorButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Logic/Platforms/MovingAfterButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Logic/Platforms/MovingBetweenPoints.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Logic/Key.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Logic/Flapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Logic/LockedGate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Logic/Door.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Logic/GateAnimator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Hero/Weapon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Hero/MovementFreezer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Hero/StuckToMovingPlatform.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Hero/RandomCrestColor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Hero/Inventory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Hero/ChickenAnimator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Hero/RigidbodyNeverSleep.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Hero/Chicken.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Eggs/Ammo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Eggs/MoveForward.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Eggs/ReproduceChicken.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Eggs/Egg.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Eggs/DestroyWhenTriggered.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/Effects/FadeElement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/HUD/LevelButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Appodeal/Editor/iOSPostprocessUtils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/HUD/NextScene.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/HUD/Window.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/HUD/SelectLevelMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/HUD/RewardWindow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObject/LevelStepRequirement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObject/Requirement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/AchievementWindow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Infrastructure/Abstract/MonoSingleton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/LevelCounter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Infrastructure/Abstract/ICoroutineRunner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/LoadingCurtain.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Infrastructure/Factory/StartPoint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Infrastructure/Factory/GameFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Infrastructure/Factory/AssetPath.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/GameMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/SafeArea.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Infrastructure/Player/PlayerInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/MySafeArea.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Infrastructure/Player/LevelData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Infrastructure/Player/PlayerAccount.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Infrastructure/Player/SaveLoad.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Infrastructure/Player/ProgressData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Infrastructure/Player/PlayerInputFreezer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Smooth.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Infrastructure/Game.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Vector3Extensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Infrastructure/GameBootstrapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Infrastructure/LevelProgress.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DestroyObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Infrastructure/GameRunner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Infrastructure/SceneLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraLogic/CameraResolution.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraLogic/ResolutionChecker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraLogic/OrientationChecker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Functions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Achievement/StepCounter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement/Mover.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement/Falling.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement/BezierMover.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement/Rotator.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Scripts/UI/AchievementWindow.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Movement/Mover.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Hero/Chicken.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/UI/GameMenu.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/UI/ToggleButton.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/UI/HUD/LevelButton.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Eggs/DeathEffect.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Eggs/ReproduceChicken.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Eggs/ReproduceAudio.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Eggs/ReproduceEffects.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Eggs/SpawnReproduceEffects.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Eggs/SpawnTriggerSound.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Logic/Door.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Infrastructure/LevelProgress.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Logic/VictoryEffect.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Eggs/Ammo.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Hero/Weapon.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Infrastructure/Player/PlayerAccount.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Infrastructure/GameBootstrapper.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/UI/HUD/SelectLevelMenu.cs" />
+      <option value="$PROJECT_DIR$/Assets/Plugins/Android/appodeal/AndroidManifest.xml" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1o6SlxtIoaC8IR4a8dkrOFpeLge" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.35003978" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.29992044" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor &amp; Play">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d55433c0-fb0f-48b3-b9c1-d746c1e1487b" name="Default Changelist" comment="" />
+      <created>1612605703674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612605703674</updated>
+      <workItem from="1612605709794" duration="18942000" />
+      <workItem from="1612633800336" duration="7502000" />
+      <workItem from="1612650217601" duration="1428000" />
+      <workItem from="1612682275241" duration="4071000" />
+      <workItem from="1612689740176" duration="6088000" />
+      <workItem from="1612707967430" duration="1838000" />
+      <workItem from="1612710001812" duration="8152000" />
+      <workItem from="1612768651059" duration="34000" />
+      <workItem from="1612768828755" duration="10238000" />
+      <workItem from="1612854051913" duration="15593000" />
+      <workItem from="1612879498072" duration="2681000" />
+      <workItem from="1612938476577" duration="15110000" />
+      <workItem from="1613025346996" duration="23793000" />
+      <workItem from="1613110900449" duration="10490000" />
+      <workItem from="1613236576781" duration="5876000" />
+      <workItem from="1613256114675" duration="2000" />
+      <workItem from="1613313191736" duration="5146000" />
+      <workItem from="1613323034647" duration="357000" />
+      <workItem from="1613323461533" duration="883000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1288" height="301" key="GridCell.Tab.0.bottom" timestamp="1612882179836">
+      <screen x="2047" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1288" height="301" key="GridCell.Tab.0.bottom/0.0.1920.1044/2047.0.1920.1080@2047.0.1920.1080" timestamp="1612882179836" />
+    <state width="1288" height="301" key="GridCell.Tab.0.center" timestamp="1612882179836">
+      <screen x="2047" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1288" height="301" key="GridCell.Tab.0.center/0.0.1920.1044/2047.0.1920.1080@2047.0.1920.1080" timestamp="1612882179836" />
+    <state width="1288" height="301" key="GridCell.Tab.0.left" timestamp="1612882179836">
+      <screen x="2047" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1288" height="301" key="GridCell.Tab.0.left/0.0.1920.1044/2047.0.1920.1080@2047.0.1920.1080" timestamp="1612882179836" />
+    <state width="1288" height="301" key="GridCell.Tab.0.right" timestamp="1612882179836">
+      <screen x="2047" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1288" height="301" key="GridCell.Tab.0.right/0.0.1920.1044/2047.0.1920.1080@2047.0.1920.1080" timestamp="1612882179836" />
+    <state width="1288" height="301" key="GridCell.Tab.1.bottom" timestamp="1612882179836">
+      <screen x="2047" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1288" height="301" key="GridCell.Tab.1.bottom/0.0.1920.1044/2047.0.1920.1080@2047.0.1920.1080" timestamp="1612882179836" />
+    <state width="1288" height="301" key="GridCell.Tab.1.center" timestamp="1612882179836">
+      <screen x="2047" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1288" height="301" key="GridCell.Tab.1.center/0.0.1920.1044/2047.0.1920.1080@2047.0.1920.1080" timestamp="1612882179836" />
+    <state width="1288" height="301" key="GridCell.Tab.1.left" timestamp="1612882179836">
+      <screen x="2047" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1288" height="301" key="GridCell.Tab.1.left/0.0.1920.1044/2047.0.1920.1080@2047.0.1920.1080" timestamp="1612882179836" />
+    <state width="1288" height="301" key="GridCell.Tab.1.right" timestamp="1612882179836">
+      <screen x="2047" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1288" height="301" key="GridCell.Tab.1.right/0.0.1920.1044/2047.0.1920.1080@2047.0.1920.1080" timestamp="1612882179836" />
+    <state width="1288" height="301" key="GridCell.Tab.2.bottom" timestamp="1612882179837">
+      <screen x="2047" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1288" height="301" key="GridCell.Tab.2.bottom/0.0.1920.1044/2047.0.1920.1080@2047.0.1920.1080" timestamp="1612882179837" />
+    <state width="1288" height="301" key="GridCell.Tab.2.center" timestamp="1612882179836">
+      <screen x="2047" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1288" height="301" key="GridCell.Tab.2.center/0.0.1920.1044/2047.0.1920.1080@2047.0.1920.1080" timestamp="1612882179836" />
+    <state width="1288" height="301" key="GridCell.Tab.2.left" timestamp="1612882179836">
+      <screen x="2047" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1288" height="301" key="GridCell.Tab.2.left/0.0.1920.1044/2047.0.1920.1080@2047.0.1920.1080" timestamp="1612882179836" />
+    <state width="1288" height="301" key="GridCell.Tab.2.right" timestamp="1612882179837">
+      <screen x="2047" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1288" height="301" key="GridCell.Tab.2.right/0.0.1920.1044/2047.0.1920.1080@2047.0.1920.1080" timestamp="1612882179837" />
+    <state width="1288" height="301" key="GridCell.Tab.3.bottom" timestamp="1612882179837">
+      <screen x="2047" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1288" height="301" key="GridCell.Tab.3.bottom/0.0.1920.1044/2047.0.1920.1080@2047.0.1920.1080" timestamp="1612882179837" />
+    <state width="1288" height="301" key="GridCell.Tab.3.center" timestamp="1612882179837">
+      <screen x="2047" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1288" height="301" key="GridCell.Tab.3.center/0.0.1920.1044/2047.0.1920.1080@2047.0.1920.1080" timestamp="1612882179837" />
+    <state width="1288" height="301" key="GridCell.Tab.3.left" timestamp="1612882179837">
+      <screen x="2047" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1288" height="301" key="GridCell.Tab.3.left/0.0.1920.1044/2047.0.1920.1080@2047.0.1920.1080" timestamp="1612882179837" />
+    <state width="1288" height="301" key="GridCell.Tab.3.right" timestamp="1612882179837">
+      <screen x="2047" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1288" height="301" key="GridCell.Tab.3.right/0.0.1920.1044/2047.0.1920.1080@2047.0.1920.1080" timestamp="1612882179837" />
+    <state x="3179" y="230" key="RiderGenerateDialog" timestamp="1613048371450">
+      <screen x="2047" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3179" y="230" key="RiderGenerateDialog/0.0.1920.1044/2047.0.1920.1080@2047.0.1920.1080" timestamp="1613048371450" />
+    <state x="2675" y="149" width="1077" height="835" key="dock-window-1" timestamp="1613112043012">
+      <screen x="2047" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2675" y="149" width="1077" height="835" key="dock-window-1/0.0.1920.1044/2047.0.1920.1080@2047.0.1920.1080" timestamp="1613112043012" />
+    <state x="2185" y="41" width="1177" height="835" key="dock-window-2" timestamp="1613039944260">
+      <screen x="2047" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2185" y="41" width="1177" height="835" key="dock-window-2/0.0.1920.1044/2047.0.1920.1080@2047.0.1920.1080" timestamp="1613039944260" />
+    <state x="2732" y="245" width="942" height="835" key="dock-window-3" timestamp="1613112346900">
+      <screen x="2047" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2732" y="245" width="942" height="835" key="dock-window-3/0.0.1920.1044/2047.0.1920.1080@2047.0.1920.1080" timestamp="1613112346900" />
+    <state x="3128" y="276" width="672" height="678" key="search.everywhere.popup" timestamp="1613031623347">
+      <screen x="2047" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3128" y="276" width="672" height="678" key="search.everywhere.popup/0.0.1920.1044/2047.0.1920.1080@2047.0.1920.1080" timestamp="1613031623347" />
+  </component>
+</project>

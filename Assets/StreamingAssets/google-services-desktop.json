@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "375324261034",
+    "project_id": "chicken-puzzles",
+    "storage_bucket": "chicken-puzzles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375324261034:android:de5e6ebd6bc767145eeed3",
+        "android_client_info": {
+          "package_name": "com.Scrawach.ChickenPuzzles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375324261034-8l69l4lsou1e9efott0nn54admmr8bfh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4uLxjUGqCIcFgY0S7y9t8r283ZLozYBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375324261034-8l69l4lsou1e9efott0nn54admmr8bfh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

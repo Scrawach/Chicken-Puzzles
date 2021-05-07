@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74a273ba5b86496f9df6c1f2ee068946, type: 3}
+  m_Name: LevelInfo
+  m_EditorClassIdentifier: 
+  Requirements:
+  - StepCount: 10
+  - StepCount: 15
+  - StepCount: 5
+  - StepCount: 15
+  - StepCount: 14
+  - StepCount: 13
+  - StepCount: 5
+  - StepCount: 14
+  - StepCount: 11
+  - StepCount: 27
+  - StepCount: 15
+  - StepCount: 14
+  - StepCount: 21
+  - StepCount: 24
+  - StepCount: 15
+  - StepCount: 15
+  - StepCount: 16
+  - StepCount: 31
+  - StepCount: 18
+  - StepCount: 33
+  - StepCount: 27
+  - StepCount: 18
+  - StepCount: 24
+  - StepCount: 18
+  - StepCount: 7
+  - StepCount: 18
+  - StepCount: 100

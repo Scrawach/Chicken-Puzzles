@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\User\AppData\local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\User\AppData\local\JetBrains\Rider2020.3\resharper-host\local\Transient\Rider\v203\SolutionCaches\_Chicken Puzzles.-2114637103.00" t="ExcludeRecursive" />
+    <e p="C:\Users\User\Downloads\Chicken Puzzles\Chicken Puzzles" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Appodeal" t="Include">
+          <e p="Api" t="Include">
+            <e p="Appodeal" t="Include">
+              <e p="Appodeal.cs" t="Include" />
+            </e>
+            <e p="ConsentManager" t="Include">
+              <e p="ConsentManager.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Common" t="Include">
+            <e p="Appodeal" t="Include">
+              <e p="IAppodealAdsClient.cs" t="Include" />
+              <e p="IBannerAdListener.cs" t="Include" />
+              <e p="IInterstitialAdListener.cs" t="Include" />
+              <e p="IMrecAdListener.cs" t="Include" />
+              <e p="INonSkippableVideoAdListener.cs" t="Include" />
+              <e p="IPermissionGrantedListener.cs" t="Include" />
+              <e p="IRewardedVideoAdListener.cs" t="Include" />
+            </e>
+            <e p="ConsentManager" t="Include">
+              <e p="IConsentFormListener.cs" t="Include" />
+              <e p="IConsentInfoUpdateListener.cs" t="Include" />
+              <e p="IConsentManager.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Demo" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="AppodealDemo.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Editor" t="Include">
+            <e p="AppodealAssetsPostProcess.cs" t="Include" />
+            <e p="AppodealCustomBuild.cs" t="Include" />
+            <e p="AppodealManager" t="Include">
+              <e p="AppodealAdapterManager.cs" t="Include" />
+              <e p="AppodealDependencyUtils.cs" t="Include" />
+              <e p="Data" t="Include">
+                <e p="AppodealUnityPlugin.cs" t="Include" />
+                <e p="NetworkDependency.cs" t="Include" />
+              </e>
+              <e p="EditorCoroutineExtensions.cs" t="Include" />
+              <e p="EditorCoroutines.cs" t="Include" />
+              <e p="XmlUtilities.cs" t="Include" />
+            </e>
+            <e p="AppodealPostProcess.cs" t="Include" />
+            <e p="AppodealSettings.cs" t="Include" />
+            <e p="AppodealUnityUtils.cs" t="Include" />
+            <e p="ArchitectureFilter.cs" t="Include" />
+            <e p="Checkers" t="Include">
+              <e p="CheckerWindow.cs" t="Include" />
+              <e p="ManifestChecker.cs" t="Include" />
+              <e p="MultidexActivator.cs" t="Include" />
+              <e p="PlatformChecker.cs" t="Include" />
+              <e p="PlayServicesChecker.cs" t="Include" />
+            </e>
+            <e p="ConsentMangerDependencies.xml" t="Include" />
+            <e p="EditorCoroutineRunner.cs" t="Include" />
+            <e p="iOSPostprocessUtils.cs" t="Include" />
+            <e p="NetworkConfigs" t="Include">
+              <e p="A4GDependencies.xml" t="Include" />
+              <e p="AdColonyDependencies.xml" t="Include" />
+              <e p="AmazonAdsDependencies.xml" t="Include" />
+              <e p="AppLovinDependencies.xml" t="Include" />
+              <e p="AppodealDependencies.xml" t="Include" />
+              <e p="BidMachineDependencies.xml" t="Include" />
+              <e p="FacebookAudienceDependencies.xml" t="Include" />
+              <e p="GoogleAdMobDependencies.xml" t="Include" />
+              <e p="IronSourceDependencies.xml" t="Include" />
+              <e p="MyTargetDependencies.xml" t="Include" />
+              <e p="OguryDependencies.xml" t="Include" />
+              <e p="SmaatoDependencies.xml" t="Include" />
+              <e p="StartAppDependencies.xml" t="Include" />
+              <e p="UnityDependencies.xml" t="Include" />
+              <e p="VungleDependencies.xml" t="Include" />
+              <e p="YandexDependencies.xml" t="Include" />
+            </e>
+            <e p="RemoveHelper.cs" t="Include" />
+          </e>
+          <e p="InternalResources" t="Include">
+            <e p="remove_list.xml" t="Include" />
+          </e>
+          <e p="Platforms" t="Include">
+            <e p="Appodeal" t="Include">
+              <e p="Android" t="Include">
+                <e p="AndroidAppodealClient.cs" t="Include" />
+                <e p="AppodealBannerCallbacks.cs" t="Include" />
+                <e p="AppodealInterstitialCallbacks.cs" t="Include" />
+                <e p="AppodealMrecCallbacks.cs" t="Include" />
+                <e p="AppodealNonSkippableVideoCallbacks.cs" t="Include" />
+                <e p="AppodealPermissionCallbacks.cs" t="Include" />
+                <e p="AppodealRewardedVideoCallbacks.cs" t="Include" />
+              </e>
+              <e p="AppodealAdsClientFactory.cs" t="Include" />
+              <e p="Dummy" t="Include">
+                <e p="DummyClient.cs" t="Include" />
+              </e>
+              <e p="iOS" t="Include">
+                <e p="AppodealAdsClient.cs" t="Include" />
+                <e p="AppodealObjCBridge.cs" t="Include" />
+              </e>
+            </e>
+            <e p="ConsentManager" t="Include">
+              <e p="Android" t="Include">
+                <e p="AndroidConsentManagerClient.cs" t="Include" />
+                <e p="ConsentFormCallbacks.cs" t="Include" />
+                <e p="ConsentInfoUpdateCallbacks.cs" t="Include" />
+              </e>
+              <e p="ConsentManagerClientFactory.cs" t="Include" />
+              <e p="Dummy" t="Include">
+                <e p="Dummy.cs" t="Include" />
+              </e>
+              <e p="iOS" t="Include">
+                <e p="ConsentManagerObjCBridge.cs" t="Include" />
+                <e p="iOSConsentManagerClient.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="ExternalDependencyManager" t="Include">
+          <e p="Editor" t="Include">
+            <e p="external-dependency-manager_version-1.2.162_manifest.txt" t="Include" />
+          </e>
+        </e>
+        <e p="GoogleMobileAds" t="Include">
+          <e p="Api" t="Include">
+            <e p="AdLoader.cs" t="Include" />
+            <e p="BannerView.cs" t="Include" />
+            <e p="Core" t="Include">
+              <e p="AdapterStatus.cs" t="Include" />
+              <e p="AdErrorEventArgs.cs" t="Include" />
+              <e p="AdFailedToLoadEventArgs.cs" t="Include" />
+              <e p="AdPosition.cs" t="Include" />
+              <e p="AdRequest.cs" t="Include" />
+              <e p="AdSize.cs" t="Include" />
+              <e p="AdValue.cs" t="Include" />
+              <e p="AdValueEventArgs.cs" t="Include" />
+              <e p="Gender.cs" t="Include" />
+              <e p="MaxAdContentRating.cs" t="Include" />
+              <e p="NativeAdType.cs" t="Include" />
+              <e p="RequestConfiguration.cs" t="Include" />
+              <e p="Reward.cs" t="Include" />
+              <e p="ServerSideVerificationOptions.cs" t="Include" />
+              <e p="TagForChildDirectedTreatment.cs" t="Include" />
+              <e p="TagForUnderAgeOfConsent.cs" t="Include" />
+            </e>
+            <e p="CustomNativeEventArgs.cs" t="Include" />
+            <e p="CustomNativeTemplateAd.cs" t="Include" />
+            <e p="InitializationStatus.cs" t="Include" />
+            <e p="InterstitialAd.cs" t="Include" />
+            <e p="Mediation" t="Include">
+              <e p="MediationExtras.cs" t="Include" />
+            </e>
+            <e p="MobileAds.cs" t="Include" />
+            <e p="ResponseInfo.cs" t="Include" />
+            <e p="RewardBasedVideoAd.cs" t="Include" />
+            <e p="RewardedAd.cs" t="Include" />
+            <e p="RewardedInterstitialAd.cs" t="Include" />
+          </e>
+          <e p="Common" t="Include">
+            <e p="AdLoaderClientArgs.cs" t="Include" />
+            <e p="CustomNativeClientEventArgs.cs" t="Include" />
+            <e p="DummyClient.cs" t="Include" />
+            <e p="IAdLoaderClient.cs" t="Include" />
+            <e p="IBannerClient.cs" t="Include" />
+            <e p="IClientFactory.cs" t="Include" />
+            <e p="ICustomNativeTemplateClient.cs" t="Include" />
+            <e p="IInitializationStatusClient.cs" t="Include" />
+            <e p="IInterstitialClient.cs" t="Include" />
+            <e p="IMobileAdsClient.cs" t="Include" />
+            <e p="IResponseInfoClient.cs" t="Include" />
+            <e p="IRewardBasedVideoAdClient.cs" t="Include" />
+            <e p="IRewardedAdClient.cs" t="Include" />
+            <e p="IRewardedInterstitialAdClient.cs" t="Include" />
+            <e p="MobileAdsEventExecutor.cs" t="Include" />
+            <e p="RewardedAdDummyClient.cs" t="Include" />
+            <e p="RewardedInterstitialAdDummyClient.cs" t="Include" />
+            <e p="Utils.cs" t="Include" />
+          </e>
+          <e p="Editor" t="Include">
+            <e p="AndroidBuildPostProcessor.cs" t="Include" />
+            <e p="GoogleMobileAds.Editor.asmdef" t="Include" />
+            <e p="GoogleMobileAdsDependencies.xml" t="Include" />
+            <e p="GoogleMobileAdsSettings.cs" t="Include" />
+            <e p="GoogleMobileAdsSettingsEditor.cs" t="Include" />
+            <e p="GoogleMobileAdsSKAdNetworkItems.xml" t="Include" />
+            <e p="ManifestProcessor.cs" t="Include" />
+            <e p="PListProcessor.cs" t="Include" />
+          </e>
+          <e p="GoogleMobileAds.asmdef" t="Include" />
+          <e p="Platforms" t="Include">
+            <e p="Android" t="Include">
+              <e p="AdLoaderClient.cs" t="Include" />
+              <e p="BannerClient.cs" t="Include" />
+              <e p="CustomNativeTemplateClient.cs" t="Include" />
+              <e p="DisplayMetrics.cs" t="Include" />
+              <e p="InitializationStatusClient.cs" t="Include" />
+              <e p="InterstitialClient.cs" t="Include" />
+              <e p="MobileAdsClient.cs" t="Include" />
+              <e p="RequestConfigurationClient.cs" t="Include" />
+              <e p="ResponseInfoClient.cs" t="Include" />
+              <e p="RewardBasedVideoAdClient.cs" t="Include" />
+              <e p="RewardedAdClient.cs" t="Include" />
+              <e p="RewardedInterstitialAdClient.cs" t="Include" />
+              <e p="Utils.cs" t="Include" />
+            </e>
+            <e p="GoogleMobileAdsClientFactory.cs" t="Include" />
+            <e p="iOS" t="Include">
+              <e p="AdLoaderClient.cs" t="Include" />
+              <e p="BannerClient.cs" t="Include" />
+              <e p="CustomNativeTemplateClient.cs" t="Include" />
+              <e p="Externs.cs" t="Include" />
+              <e p="GoogleMobileAdsClientFactory.cs" t="Include" />
+              <e p="InitializationStatusClient.cs" t="Include" />
+              <e p="InterstitialClient.cs" t="Include" />
+              <e p="MobileAdsClient.cs" t="Include" />
+              <e p="MonoPInvokeCallbackAttribute.cs" t="Include" />
+              <e p="RequestConfigurationClient.cs" t="Include" />
+              <e p="ResponseInfoClient.cs" t="Include" />
+              <e p="RewardBasedVideoAdClient.cs" t="Include" />
+              <e p="RewardedAdClient.cs" t="Include" />
+              <e p="RewardedInterstitialAdClient.cs" t="Include" />
+              <e p="Utils.cs" t="Include" />
+            </e>
+            <e p="Unity" t="Include">
+              <e p="BannerClient.cs" t="Include" />
+              <e p="BaseAdDummyClient.cs" t="Include" />
+              <e p="ButtonBehaviour.cs" t="Include" />
+              <e p="Countdown.cs" t="Include" />
+              <e p="DummyAdBehaviour.cs" t="Include" />
+              <e p="InitializationStatusDummyClient.cs" t="Include" />
+              <e p="InterstitialClient.cs" t="Include" />
+              <e p="ResponseInfoDummyClient.cs" t="Include" />
+              <e p="RewardedAdClient.cs" t="Include" />
+              <e p="RewardedInterstitialAdClient.cs" t="Include" />
+              <e p="RewardingAdBaseClient.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Achievement" t="Include">
+            <e p="StepCounter.cs" t="Include" />
+          </e>
+          <e p="CameraLogic" t="Include">
+            <e p="CameraResolution.cs" t="Include" />
+            <e p="OrientationChecker.cs" t="Include" />
+            <e p="ResolutionChecker.cs" t="Include" />
+          </e>
+          <e p="DestroyObject.cs" t="Include" />
+          <e p="Editor" t="Include">
+            <e p="Tools.cs" t="Include" />
+          </e>
+          <e p="Eggs" t="Include">
+            <e p="Ammo.cs" t="Include" />
+            <e p="DeathEffect.cs" t="Include" />
+            <e p="DestroyWhenTriggered.cs" t="Include" />
+            <e p="Egg.cs" t="Include" />
+            <e p="MoveForward.cs" t="Include" />
+            <e p="ReproduceChicken.cs" t="Include" />
+            <e p="SpawnReproduceEffects.cs" t="Include" />
+            <e p="SpawnTriggerSound.cs" t="Include" />
+          </e>
+          <e p="Functions.cs" t="Include" />
+          <e p="Hero" t="Include">
+            <e p="Chicken.cs" t="Include" />
+            <e p="ChickenAnimator.cs" t="Include" />
+            <e p="Inventory.cs" t="Include" />
+            <e p="MovementFreezer.cs" t="Include" />
+            <e p="RandomCrestColor.cs" t="Include" />
+            <e p="RigidbodyNeverSleep.cs" t="Include" />
+            <e p="StuckToMovingPlatform.cs" t="Include" />
+            <e p="Weapon.cs" t="Include" />
+          </e>
+          <e p="Infrastructure" t="Include">
+            <e p="Abstract" t="Include">
+              <e p="ICoroutineRunner.cs" t="Include" />
+              <e p="MonoSingleton.cs" t="Include" />
+            </e>
+            <e p="Factory" t="Include">
+              <e p="AssetPath.cs" t="Include" />
+              <e p="GameFactory.cs" t="Include" />
+              <e p="StartPoint.cs" t="Include" />
+            </e>
+            <e p="Game.cs" t="Include" />
+            <e p="GameBootstrapper.cs" t="Include" />
+            <e p="GameRunner.cs" t="Include" />
+            <e p="LevelProgress.cs" t="Include" />
+            <e p="Player" t="Include">
+              <e p="LevelData.cs" t="Include" />
+              <e p="PlayerAccount.cs" t="Include" />
+              <e p="PlayerInput.cs" t="Include" />
+              <e p="PlayerInputFreezer.cs" t="Include" />
+              <e p="ProgressData.cs" t="Include" />
+              <e p="SaveLoad.cs" t="Include" />
+            </e>
+            <e p="SceneLoader.cs" t="Include" />
+          </e>
+          <e p="Logic" t="Include">
+            <e p="Door.cs" t="Include" />
+            <e p="Flapper.cs" t="Include" />
+            <e p="GateAnimator.cs" t="Include" />
+            <e p="Key.cs" t="Include" />
+            <e p="LockedGate.cs" t="Include" />
+            <e p="Platforms" t="Include">
+              <e p="FloorButton.cs" t="Include" />
+              <e p="MovingAfterButton.cs" t="Include" />
+              <e p="MovingBetweenPoints.cs" t="Include" />
+              <e p="MovingPlatform.cs" t="Include" />
+            </e>
+            <e p="VictoryEffect.cs" t="Include" />
+          </e>
+          <e p="Movement" t="Include">
+            <e p="BezierMover.cs" t="Include" />
+            <e p="Falling.cs" t="Include" />
+            <e p="Mover.cs" t="Include" />
+            <e p="Rotator.cs" t="Include" />
+          </e>
+          <e p="Scene" t="Include">
+            <e p="GameOverZone.cs" t="Include" />
+          </e>
+          <e p="ScriptableObject" t="Include">
+            <e p="LevelStepRequirement.cs" t="Include" />
+            <e p="Requirement.cs" t="Include" />
+          </e>
+          <e p="Smooth.cs" t="Include" />
+          <e p="Sound" t="Include">
+            <e p="MixerLevels.cs" t="Include" />
+            <e p="RandomPitch.cs" t="Include" />
+            <e p="ShotSound.cs" t="Include" />
+            <e p="StepSound.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="AchievementWindow.cs" t="Include" />
+            <e p="Effects" t="Include">
+              <e p="FadeElement.cs" t="Include" />
+            </e>
+            <e p="GameMenu.cs" t="Include" />
+            <e p="HUD" t="Include">
+              <e p="LevelButton.cs" t="Include" />
+              <e p="NextScene.cs" t="Include" />
+              <e p="RewardWindow.cs" t="Include" />
+              <e p="SelectLevelMenu.cs" t="Include" />
+              <e p="Window.cs" t="Include" />
+            </e>
+            <e p="LevelCounter.cs" t="Include" />
+            <e p="LoadingCurtain.cs" t="Include" />
+            <e p="MySafeArea.cs" t="Include" />
+            <e p="SafeArea.cs" t="Include" />
+            <e p="ToggleButton.cs" t="Include" />
+          </e>
+          <e p="Vector3Extensions.cs" t="Include" />
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Chicken Puzzles.sln" t="IncludeFlat" />
+      <e p="GoogleMobileAds.csproj" t="IncludeRecursive" />
+      <e p="GoogleMobileAds.Editor.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
